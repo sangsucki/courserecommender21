@@ -1,0 +1,9 @@
+This week I need to (i) review our team's work during last semester and set feasible objectives, which will satisfy our stakeholder's purpose and will be enough to challenge myself to improve my analytical skills, [Ilona: this is a good goal] (ii) find possible models in addition to the current model that I implemented [Ilona: don't forget to evaluate pros and cons of each model before programming; a good outcome for ii would be an outline that compares past and new models]
+
+I will collaborate with my team for (i) and share our individual objectves aligned with the team objective. I will work on (ii) independently by looking at new syllabus for spring semester related to possible applicable models and visit their office hour to ask their advice, possibly from professors. If it is implementable, I would take the class for this semester and I will make the model work throughout the semester. [Ilona: interesting, I think taking a class is a very ambissious goal for the project; Unless you have other reasons to do so; Consider Coursera or Stanford online, you might need a couple lessons to reach the goal rather than attending the whole class; we might be able to find resources if you need access to a specific lesson related to the modeling you would like to learn]
+
+(i) will be complete after our weekly meeting with the client on Jan 26. For (ii), it will be done by Jan 29 since most of office hours are operated until Friday.
+
+<!-- gjh: These goals are fairly clear although (ii) is not very well specified.  What does success look like?  Why are you looking for new models? A sentence or two would be all that is needed to specify this goal and put it in the context of your larger project.
+
+Also, although this may be part of (i), please make sure to link your goals to the storyboard so the reader (and you) have a sense of how the week fits into the larger framework of the semester -->

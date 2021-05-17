@@ -1,0 +1,11 @@
+[Ilona: report summarizing previous goals is missing; the report needs to include commitments]
+
+After meeting with a faculty memeber, Professor John Haws, who has worked with registration data, we have some valuable insights which we will attempt in the following weeks. From those, my goals include the following:
+
+(i) Previously we have been working with data pre-2012 which may not be relevant and hard to connect with current data. Therefore from now on I will use post-2012 data to conduct analysis. I plan to create subsets of data for 2012-2020 with respect to econ major and maybe other most popular majors with an estimation of 1 day work.
+
+(ii) Exploratory analysis on course taking behaviors, focusing on areas such that how initial starting semester's grade [Ilona: are you sure? I was thinking the advice was to look at initial courses and see how these courses influence future grades] would affect students later on; for specific majors whether there are combination of courses that are common and result in good/bad grades; etc. It would be very helpful if we are able to get the detailed report John's team previously published for this purpose. It was also suggested by John's team that instead of looking at "successful" students, it might be easier to identify poor results. The EDA process is estimated to take 3 days. 
+
+(iii) I plan to investigate into decision-tree based model to determine whether a student decides to take a class or not. I will take the rest of the time to look into on specific implementation and try to get it work on the smallest subset data we previously have `econ_05_09.csv`. [Ilona: why are you going in this direction? what is the goal of this exploration and how will you know when to stop exploring. What are your measures of success or failure? I encourage you to think and read about the method first before implementing it. How is this different (better) from what you have already tried?]
+
+[Ilona: how each i-iii connected to the main goals of the project? You need explicit connections with a storyboard to ensure that you are going in the right direction]

@@ -1,0 +1,9 @@
+This week I need to (i) summarize and recap with the client and the team, clarify the objectives and plans to proceed, (ii) fix the errors on the lightfm model so that it is able to generalize to larger dataset [Ilona: consider: how do you know that the mistakes are fixed? to how many datasets are you planning to apply the model? What if it works on some but not others? what is your stop rule for checking?], and (iii) implement business [Ilona: what are the business rules?] rules after the model output for different types of major/minor/academic requirements.
+
+I will work together with my team for (i) and get plans straight. I will work on (ii) and (iii) independently with respect to the lightfm model on the small dataset and will try to make it work on a larger dataset. Regarding (iii), I will work together with my team to determine which business rules to implement regarding different academic requirements on the small subset of data and also explore the possibility of extending it to larger dataset.
+
+(i) will be much clearer after our weekly meeting with the client on Jan 26. For (ii), it might take up to 3 days to figure out where might went wrong with the original lightfm model which I plan to start after Tuesday. (iii) should come straightforward after having a working model with an estimated of 1 day's work.
+
+The goal and timeline are tentative right now and will be adjusted in the coming weeks as I get more familiar with the work with more accurate estimated durations.
+
+<!-- gjh: These goals are fairly clear; Ilona has some helpful comments on specification.  Please also make sure to link your goals to the storyboard so the reader (and you) have a sense of how the week fits into the larger framework of the semester -->

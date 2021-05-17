@@ -1,0 +1,14 @@
+I was able to complete the following goals:
+for (i), we have established the final delivery objectives with the client and determined a rough timeline within the team. The final objectives include 1. improve model prediction accuracy, and 2. explore student course behavior patterns (which can potentially be fed back into model). [Ilona: when you are setting a goal with the word "explore" be mindful about milestones, you need to have tangible deliverables in mind. How do you know that you have achieved your goal?]
+
+for (ii), I revisited the lightfm model and re-tested on the small datasets (`econ_05_09.csv` and `top5_05_09.csv`). The self-defined accuracy results showed fluctuations and are not consistent with the records uploaded in the last semester. I am still in the process of investigating what errors might have appeared in the code that caused this discrepency. [Ilona: these steps need to be included in the next goals, are you still planning to process the errors? It is good to plan when you hope/expect to stop working on this goal, what is the maximum you are hoping to achieve?]
+
+That being said, neither the before and after results perform well with both consistently below 20% prediction coverage. This might suggest that the lightfm model may not work very well with this problem. Therefore I am also investigating into the neighborhood model built by Sangsoek. [Ilona: the same comment as above]
+
+for (iii), as discussed with the team, as it would be a more manual process to come up with business rules (academic constraints) with respect to each curriculum requirements. After discussing with the team, it seems not a feasible idea as there is too much granularity for each major.
+
+This week I have also read more on a textbook called Recommender Systems by Charu C. Aggarwal. I learned there are several business concepts that can be implemented for evaluation purpose, including relevance, novelty, serendipity, and diversity. So far what we implemented is a self-defined top-k prediction accuracy which only touches on relevance of courses based on history records. It could be possible that we also self-define metrics for novelty or diversity which covers the latent interest of students aside from curriculum-related courses. [Awesome! this is a great summary of learning goals. You described knew knowledge that you acquired and also discussed how you plan to apply it in the future. Perfect!]
+
+Apart from previously-set goal, we had a meeting on Friday this week with a faculty memeber, Professor John Haws, who has worked with registration data. He provided valuable insights which we will attempt in the following week.
+
+Overall, the estimated time was too ambitious and did not align well with the goal. The plan and to-dos will be adjusted accordingly and will be listed in more details for next week's goal. [Ilona: great that you have realized that your time estimates were too ambitious and you plan to correct it]

@@ -1,0 +1,8 @@
+Regarding (i), we set our final goal at the end of this semester with the client. Our fianl goal will be to improve model prediction accuracy and figure out the academic class patterns that students take based on different majors. 
+Regarding (ii), first, we had a meething with John Haws, who is one of MIDS faculty and also worked with Duke Registrar. He was interested in our models and I explained the logic behind one of our successful models. He suggested possible directions for the next step. Second, I visited an office hour with Craig Rawlings, who is a professor teaching 'Network Analysis'. I briefly summarized our project and he suggested several papers that might help us to approach a new method to look at the academic class patterns for students. I have read two papers "Curricular Flows: Trajectories, Turning Points, and
+Assignment Criteria in High School Math Careers (Daniel A. McFarland, 2006)" and "Vacancy chains (Chase, 1991)". Network matrices will help us understand temporal aspects of the academic patterns for students.   
+
+<!-- gjh: your report tells a clear story.  One thing to add here is what did reading the papers get you; that is to say, are you more confused and need help understanding them? Or do you have a deep understanding and are now ready to implement the new models? 
+
+Please also link your progress to git commits or files. For the above work, this could look like pushing the two papers, and perhaps drafting and pushing some pseudo/skeleton code for implementing these models.  
+-->
